@@ -1,0 +1,45 @@
+.maint{
+    background-color: #8cceb8;
+}
+.sub{
+    background-color: #8cceb8;
+}
+.h2_heading{
+    color: darkblue;
+    text-align:center;
+    font-style: italic;
+    font-family: cursive;
+}
+.heading{
+    color:darkblue;
+    font-style: oblique;
+    font-family: cursive;
+    text-align: center;
+}
+.task,.priority{
+    text-align: center;
+    height: 70px;
+    width: 500px;
+    margin: 15px;
+    font-size: larger;
+    color: darkblue;
+    background-color :#8cceb8;
+}
+.btn-submit{
+    background-color: darkblue;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    color: lightgrey;
+    height: 60px;
+    width: 200px;
+    margin: 5px;
+}
+.table{
+    font-size: large;
+    font-family: serif;
+    color: darkblue;
+    padding: auto;
+}
+.btn-complete{
+    text-decoration: line-through;
+}

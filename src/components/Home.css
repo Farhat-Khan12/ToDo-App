@@ -1,0 +1,29 @@
+.Nav{
+    width: 100%;
+    height: 80px;
+    background-color: darkblue ;
+}
+.main{
+    height: 100%;
+    width: 100%;
+}
+.btn1h,.btn2h,.btn3h,.btn4h,.btn5h{
+    width: 20%;
+    height: 80px;
+    background-color: rgb(82, 82, 107);
+    color: lightgrey;
+    font-size: large;
+    font-family: cursive;
+}
+.heading{
+    color: darkblue;
+    font-family: cursive;
+    font-weight: bolder;
+    text-decoration: underline;
+    text-align: center;
+}
+.inner{
+    background-image: url("https://www.teahub.io/photos/full/1-10344_computer-background-hd.jpg");
+    height: 800px;
+    width: 100%;
+}

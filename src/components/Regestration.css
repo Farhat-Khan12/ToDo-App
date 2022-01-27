@@ -1,0 +1,31 @@
+.main-divr{
+    background-color: lightgrey;
+    height: 1200px;
+    width: 100%;
+}
+.inner-divr{
+    background-color: whitesmoke;
+    border : 5px solid black;
+    height: 900px;
+    width: 600px;
+    margin-left:400px;
+}
+.email_id,.password,.username,.first,.last,.confpass{
+    height: 65px;
+    width: 100%;
+    color: darkblue;
+    font-size: medium;
+}
+.label1,.label2,.label3,.label4,.label5,.label6{
+    font-size: large;
+    font-family: cursive;
+    color: darkblue;
+}
+.btn1,.btn2{
+    margin-left: 140px;
+}
+.Nav{
+    width: 100%;
+    height: 80px;
+    background-color: darkblue ;
+}
